@@ -37,5 +37,7 @@ Now we go to Colab by clicking in the [script](https://github.com/brandleyzhou/s
 ## Tasks to do
 
  - create a dataset 
-
+ - train models
+ - evaluate models
+ - analyse results
 
